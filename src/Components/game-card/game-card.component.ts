@@ -14,8 +14,9 @@ export class GameCardComponent implements OnInit{
   @Input() gameImage = ""
 
   optionsList  = [
-    "Jogar",
-    "Informações"
+    "Visão Geral",
+    "Atividades Recentes",
+    "Itens Relacionados"
   ];
   
   ngOnInit(): void {

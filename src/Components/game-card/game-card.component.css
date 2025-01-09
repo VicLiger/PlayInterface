@@ -1,0 +1,14 @@
+.container-card {
+    width: 15vw;
+    height: 50vh;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.container-options{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
